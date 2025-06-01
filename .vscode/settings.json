@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "__bit_reference": "cpp",
+        "ios": "cpp",
+        "future": "cpp"
+    }
+}
